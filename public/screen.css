@@ -7,3 +7,24 @@ body {
   min-height: 100%;
   font: 16px / 1 sans-serif;
 }
+
+
+.hero{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.hero > section{
+  border: 3px solid orange;
+  padding: 2em 1em;
+}
+
+img{
+  width: 100%;
+}
+
+.animal-card{
+  margin: 1em;
+}
