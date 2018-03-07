@@ -28,3 +28,12 @@ img{
 .animal-card{
   margin: 1em;
 }
+
+/*Desktop CSS8*/
+@media (min-width:800px){
+   *{
+     border: 10px solid red;
+   }
+   
+
+}
